@@ -71,7 +71,7 @@
     "chart.js": "~1.1.1",
     "check-node-version": "~2.0.1",
     "co-prompt": "~1.0.0",
-    "commander": "~2.9.0",
+    "commander": "~2.20.3",
     "component-closest": "~1.0.1",
     "component-dom": "1.0.8",
     "component-spin": "0.1.1",
